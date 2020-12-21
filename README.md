@@ -1,3 +1,3 @@
-# DigPPIS
-Protein-protein interacting site prediction using deep graph convolutional network.  
-Under development.  
+# GraphPPIS
+Structure-aware protein-protein interacting site prediction using deep graph convolutional network.  
+Under development...  
